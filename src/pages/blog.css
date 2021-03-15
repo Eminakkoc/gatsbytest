@@ -1,0 +1,40 @@
+* {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+}
+
+.blogPost {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.blogPost .mainImage {
+    margin: 32px 0;
+    width: 100%;
+}
+
+.blogPost .block {
+    margin-top: 16px;
+}
+
+.blogPost .block.youtube {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+    margin-top: 16px;
+}
+
+.blogPost .block.youtube::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+
+.blogPost .block.youtube iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

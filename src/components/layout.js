@@ -23,8 +23,6 @@ const Layout = ({ children }) => {
     }
   `)
 
-  console.log("data: ", data);
-
   return (
     <>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />

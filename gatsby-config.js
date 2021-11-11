@@ -21,7 +21,7 @@ module.exports = {
         dataset: `production`,
         overlayDrafts: true,
         watchMode: true,
-        token: `skIZdmVjHshQTMVKVqAOqbDXP2IwoB3uCgvOy7IEdYxoUiVwOD29NtMZ8cqWgmzWtvsR9fKfVeN4XQgHzp0kZ4hCEzY8XM6vpfthrI48Wqls4AupENMWLfT3fDMGrJ7OocVe0syWUVY9dgI1zp9DBkIwnjJBxTYvtValawtlHWlynPVW03v0`
+        token: `skNJJy7z20ImRvEtc52BFT94P87XcP4cv83CXkCn7lIfPZzq6Y8CIUVs9XDm4aVKnOfvaHluUJSFQtEo8QqL8k8s41e01SGkbfX2sSZdLjN0T42Ng4tBLw2NkoF4RrCPEC6RHBgTi0aSAkQTQ17WOVz36qCwtkzvYZRlDLGYzU0FpxIhdekh`
       },
     },
     `gatsby-transformer-sharp`,
